@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Rayu</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-<h3 align="center">🚀 About Me 🎓 Am Sahil Rayu, a React Dev(one day ;) ) , pursuing my Bachelors in CSE from Chitkara University. 👨‍💻 I enjoy contributing to Open Source Projects , participating in Coding Events and am really enthusiastic about learning new technologies. 🎮 Calm Gamer.</h3>
+<h3 align="center">🚀 About Me 🎓 Am Sahil Rayu,  Software Development Engineer (one day ;) ) , pursuing my Bachelors in CSE from Chitkara University. 👨‍💻 I enjoy contributing to Open Source Projects , participating in Coding Events and am really enthusiastic about learning new technologies. 🎮 Calm Gamer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3011ar&label=Profile%20views&color=0e75b6&style=flat" alt="3011ar" /> </p>
 
